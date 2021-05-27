@@ -3,9 +3,9 @@ Deployed version:
 https://bridge-monitoring.poa.net/
 
 This tools allows you to spin up node.js server to monitor for 2 contracts on
-Home and Foreign Eth networks to check for balance difference.
+Home and Foreign Vap networks to check for balance difference.
 On Home network it checks for `HOME_BRIDGE_ADDRESS` balance.
-On Foreign network it checks for the `ERC20 token` total supply for the `FOREIGN_BRIDGE_ADDRESS`.
+On Foreign network it checks for the `VRC20 token` total supply for the `FOREIGN_BRIDGE_ADDRESS`.
 
 Example of an API 
 
